@@ -1,0 +1,12 @@
+.card_image{
+
+    object-fit: contain;
+    height: 50vh;
+   
+}
+.card_text{
+
+    text-align: center;
+    margin-top: 20px;
+   
+}

@@ -1,0 +1,24 @@
+.image_container{
+   background-image: url(../../../assets/images/banner.jpeg);
+   min-height: 60vh;
+   position: relative;
+   background-size: cover;
+   background-position: center center;
+   /* -webkit-background-size : cover;
+   -moz-background-size: cover;    */
+   max-width: 100vw;
+   --bs-gutter-x: 0;
+}
+.banner_text{
+    
+    color: black;
+    /* max-width: 500px;             */
+}
+.banner_text p{
+    max-width: 500px;
+    text-align: justify;
+    padding: 20px 0px;
+}
+.banner_text h1{
+    font-weight: 700;
+}

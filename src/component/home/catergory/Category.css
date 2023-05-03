@@ -1,0 +1,31 @@
+.category_contain{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.category_header{
+    
+    font-weight: bold;    
+    
+}
+
+.category_header_text{
+
+    max-width: 550px;
+    text-align: center;
+    line-height: 30px;
+}
+.category_images{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 70vw;
+    margin-top: 50px;
+}

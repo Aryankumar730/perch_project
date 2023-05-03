@@ -1,0 +1,15 @@
+.discount_content{
+
+    max-height: 100px;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100vw;
+}
+.header_text{
+    margin-bottom: 0;
+    color: white;
+    padding: 5px 0px;
+   
+}
